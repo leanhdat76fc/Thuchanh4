@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "219699950755",
+    "project_id": "thuchanh4-204ee",
+    "storage_bucket": "thuchanh4-204ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219699950755:android:666149767c98c2bc443b16",
+        "android_client_info": {
+          "package_name": "com.thuchanh4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2QP17rjKVoUgHZrFAahRoB339Ln_6otY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
